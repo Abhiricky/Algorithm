@@ -1,0 +1,2 @@
+# Algorithm
+Hacker Rank Algorithm
